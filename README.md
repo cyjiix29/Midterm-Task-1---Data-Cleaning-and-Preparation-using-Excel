@@ -1,4 +1,4 @@
-# Midterm-Task-1 - Data-Cleaning-and-Preparation-using-Excel
+# Midterm Task 1 - Data Cleaning and Preparation using Excel
 In this activity, we cleaned an excel sheet fill of errors and redundancy using different excel features.
 ## Step 1 DATA CLEANING
 - Load the raw file
