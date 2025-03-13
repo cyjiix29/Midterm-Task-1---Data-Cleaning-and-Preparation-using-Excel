@@ -11,3 +11,11 @@ In this activity, we cleaned an excel sheet fill of errors and redundancy using 
 - Perform Table split using 2NF
 - Perform 3NF
 - Mapped the Normalized Tables as a Physical Data Model
+## Step 3 BEFORE
+<img src="images/DataRAW.png" alt="Alt Text" Width="900" heigth="300">
+
+## Step 4 AFTER
+<img src="images/DataNOR.png" alt="Alt Text" Width="800" heigth="500">
+
+## Here's the Physical Data Model
+<img src="images/IMG_20250306_183917.jpg" alt="Alt Text" Width="800" heigth="500">
